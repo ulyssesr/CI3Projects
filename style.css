@@ -1,0 +1,12 @@
+body { font-family: 'Merriweather', sans-serif; font-size: 20px; }
+h1,h2,h3,h4,h5 { font-family: 'Merriweather', sans-serif; }
+h1 { font-size: 64px; }
+h2 { font-size: 40px; }
+article { margin: 50px 0; color: #555555; }
+article h2 { margin: 0; color: #000000; }
+small { color: #aaaaaa; }
+#page { margin: 20px auto; width: 75%; padding: 20px; }
+.links { font-size:14px; }
+.links a, a:active { color: indigo; }
+.links a:visited { color: purple; }
+.links a:hover { color: purple; }
